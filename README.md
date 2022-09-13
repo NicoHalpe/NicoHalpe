@@ -4,7 +4,7 @@
 
 🙋‍♂️ I am Nicolás Halperin, a **Full Stack Developer**  
 
-🎓 I am finishing my last year of highschool, about to start my collage studies on data science  
+🎓 I am finishing my last year of highschool, about to start my collage studies on computer science  
 
 💻 I started coding 4 years ago, trying to automate some every day things. After some time, I began to code more complex things, I started making projects, websites, APIs, mobile apps, etc. Nowadays, I am learning blockchain and web3 development.
 
